@@ -1,4 +1,4 @@
-# Jenkins Lab - Assignment 2
+# Jenkins Assignment - CC lab 08
 
 Welcome to your jenkins assignment! This simple exercise is designed to introduce you to Jenkins and continuous integration.
 
@@ -16,7 +16,7 @@ Jenkins is an open-source, Java-based automation tool. This tool automates the s
 
 ## Prerequisites
 
-- **Docker**: Installed on your system. (Refer to the installation guide steps in the Lab Experiment 2 manual).
+- **Docker**: Installed on your system. (Setup and Installation should have been covered in your previous lab ).
 - **Git**: Installed on your system and a GitHub account. Follow this [tutorial](https://www.youtube.com/watch?v=2j7fD92g-gE) to install and familiarize yourself with Git.
 
 Create a GitHub repository with the name as `YOUR_SRN_Jenkins`.
